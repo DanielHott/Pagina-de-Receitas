@@ -22,5 +22,8 @@ O projeto consome uma API inteiramente em inglês, então as pesquisas devem ser
 -CSS
 -HTML
 
+## Autor
+
+[Daniel Hott](https://www.linkedin.com/in/danielhott/) 
 
 
