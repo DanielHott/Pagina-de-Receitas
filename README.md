@@ -1,8 +1,8 @@
-#Projeto Página de Receitas
+Projeto Página de Receitas
 
 É um projeto desenvolvido com React, Hooks, Fetch e Javascript.
 
-##Como é o projeto:
+Como é o projeto:
 
 Uma página de receitas onde o usuário tem a possibilidade de pesquisar sua receita por dois parâmetros, um pelo nome do prato, outro pelo ingrediente que o prato possui.
 
@@ -12,5 +12,5 @@ Foi feito em React, com seu estado sendo controlado por Hooks.
 
 Ao clicar no card das comidas é redirecionado à uma tela de detalhes da receita de cada prato apresentado na tela principal.
 
-
+Para visualizar o site clique aqui https://danielhott.github.io/Pagina-de-Receitas/
 
