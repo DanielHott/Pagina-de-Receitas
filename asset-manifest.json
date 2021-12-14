@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DanielHott/Pagina-de-Receitas/static/css/main.18b0d6b5.chunk.css",
+    "main.js": "/DanielHott/Pagina-de-Receitas/static/js/main.5a761825.chunk.js",
+    "main.js.map": "/DanielHott/Pagina-de-Receitas/static/js/main.5a761825.chunk.js.map",
+    "runtime-main.js": "/DanielHott/Pagina-de-Receitas/static/js/runtime-main.022a953e.js",
+    "runtime-main.js.map": "/DanielHott/Pagina-de-Receitas/static/js/runtime-main.022a953e.js.map",
+    "static/js/2.3680b014.chunk.js": "/DanielHott/Pagina-de-Receitas/static/js/2.3680b014.chunk.js",
+    "static/js/2.3680b014.chunk.js.map": "/DanielHott/Pagina-de-Receitas/static/js/2.3680b014.chunk.js.map",
+    "index.html": "/DanielHott/Pagina-de-Receitas/index.html",
+    "static/css/main.18b0d6b5.chunk.css.map": "/DanielHott/Pagina-de-Receitas/static/css/main.18b0d6b5.chunk.css.map",
+    "static/js/2.3680b014.chunk.js.LICENSE.txt": "/DanielHott/Pagina-de-Receitas/static/js/2.3680b014.chunk.js.LICENSE.txt",
+    "static/media/chefe.c9d0c3ce.png": "/DanielHott/Pagina-de-Receitas/static/media/chefe.c9d0c3ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022a953e.js",
+    "static/js/2.3680b014.chunk.js",
+    "static/css/main.18b0d6b5.chunk.css",
+    "static/js/main.5a761825.chunk.js"
+  ]
+}
