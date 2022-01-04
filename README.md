@@ -7,6 +7,19 @@ https://danielhott.github.io/Pagina-de-Receitas/
 
 Página de Receitas é uma aplicação criada durante o módulo Front-end do curso de desenvolvimento full-stack organizado pela [Trybe](https://www.betrybe.com/) onde o usuário tem a possibilidade de pesquisar sua receita por dois parâmetros, um pelo nome do prato, outro pelo ingrediente que o prato possui.Ao clicar no card das comidas será redirecionado à uma tela de detalhes da receita de cada prato apresentado na tela principal.
 
+## Como clonar?
+
+#### No seu terminal: 
+1 - Acesse a pasta que deseja clonar o repositório
+
+2 - git clone https://github.com/DanielHott/Pagina-de-Receitas.git
+
+3 - cd Pagina-de-Receitas
+
+4 - npm install
+
+5 - npm start
+
 ## Layout web
 
 ![Web 1](https://github.com/DanielHott/exercise-redux-thunk/blob/exercise-one/meuSite.png)
